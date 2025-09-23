@@ -1,0 +1,46 @@
+# Compiled source files
+*.o
+*.obj
+*.lo
+*.la
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug / profiling
+*.dSYM/
+*.stackdump
+vgcore.*
+*.core
+
+# Build directories
+/build/
+/bin/
+/lib/
+/dist/
+/Debug/
+/Release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# VS Code / CLion / IDEs
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Other system files
+.DS_Store
+Thumbs.db
