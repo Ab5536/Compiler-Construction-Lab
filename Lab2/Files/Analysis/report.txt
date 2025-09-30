@@ -1,0 +1,20 @@
+Total Number of Files: 2
+{{File Name: File1.txt
+Line Count: 4
+Word Count: 9
+Most Common Words: {"",9}}
+Average Word Length: 4
+Vowel to Consonant Ratio: 1 : 1.29412
+Consonant Count: 22
+Character Count: 39
+},
+{File Name: File2.txt
+Line Count: 2
+Word Count: 14
+Most Common Words: {"",14}}
+Average Word Length: 4
+Vowel to Consonant Ratio: 1 : 1.71429
+Consonant Count: 36
+Character Count: 59
+},
+}

@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "file_name": "document security.txt",
+      "lines": 71,
+      "words": 337,
+      "average_word_length": 5.896142,
+      "vowel_consonant_ratio": 0.607825,
+      "top_words": [{"word": "sensitive", "count": 6}, {"word": "pdfs", "count": 6}, {"word": "file", "count": 6}]
+    },
+    {
+      "file_name": "Traffic Management and Reporting .txt",
+      "lines": 137,
+      "words": 1363,
+      "average_word_length": 5.472487,
+      "vowel_consonant_ratio": 0.635192,
+      "top_words": [{"word": "like", "count": 15}, {"word": "voice", "count": 14}, {"word": "offline", "count": 14}, {"word": "traffic", "count": 13}, {"word": "google", "count": 13}]
+    }
+  ],
+  "summary": {
+    "total_files_analyzed": 2
+  }
+}
