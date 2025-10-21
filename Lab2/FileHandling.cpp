@@ -50,7 +50,7 @@ int main()
         }
         else if (option == '2')
         {
-            string pathForAnalysis = getStringInput("Enter the file path for analysis(Absolute): ");
+            string pathForAnalysis = getStringInput("Enter the folder path for analysis(Absolute): ");
             string pathForReport = getStringInput("Enter the file path for report(Absolute): ");
             const vector<FileAnalysis> analysisResults = performFileAnalysis(pathForAnalysis);
             reportResults(analysisResults, pathForReport);

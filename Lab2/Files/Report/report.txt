@@ -1,0 +1,27 @@
+Total Number of Files: 3
+{
+{ File Name: File1.txt,
+ Line Count: 4,
+ Word Count: 9,
+ Most Common Words:  Average Word Length: 4,
+ Vowel to Consonant Ratio: 1 : 1
+ Consonant Count: 22,
+ Character Count: 39,
+},
+{ File Name: File2.txt,
+ Line Count: 2,
+ Word Count: 14,
+ Most Common Words:  Average Word Length: 4,
+ Vowel to Consonant Ratio: 1 : 1
+ Consonant Count: 36,
+ Character Count: 59,
+},
+{ File Name: report.txt,
+ Line Count: 3,
+ Word Count: 4,
+ Most Common Words:  Average Word Length: 5,
+ Vowel to Consonant Ratio: 1 : 1
+ Consonant Count: 11,
+ Character Count: 22,
+},
+}
