@@ -44,3 +44,5 @@ compile_commands.json
 # Other system files
 .DS_Store
 Thumbs.db
+userInput.pas
+Tokens.txt

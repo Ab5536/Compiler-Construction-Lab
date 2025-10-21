@@ -1,7 +1,7 @@
 import threading
 import time
 
-BUFFER_SIZE = 100  # Max characters per buffer
+BUFFER_SIZE = 10  # Max characters per buffer
 
 # Two buffers
 buffer_A = []
