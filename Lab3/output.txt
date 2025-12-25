@@ -4,7 +4,7 @@ Processed Output (All Words)
 try:
 with
 ope
-n("output.
+n("output.  
 txt",
 "w",
 encoding=
